@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieAppKotlin</string>
+    <string name="film_rating">Film rating</string>
+</resources>
